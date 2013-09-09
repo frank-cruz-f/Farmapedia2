@@ -36,6 +36,7 @@
 		92A1F56D17DC6A45001FF991 /* myLaunchImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 92A1F56C17DC6A45001FF991 /* myLaunchImage.png */; };
 		92FD1A8A17DD90EF00B708D3 /* paracetamol 500mg_t.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 92FD1A8917DD90EF00B708D3 /* paracetamol 500mg_t.jpg */; };
 		92FD1A8C17DD917200B708D3 /* Pack-Paracetamol-Bayer[1].jpg in Resources */ = {isa = PBXBuildFile; fileRef = 92FD1A8B17DD917200B708D3 /* Pack-Paracetamol-Bayer[1].jpg */; };
+		92FD1A8E17DDBE1600B708D3 /* Sin título.png.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 92FD1A8D17DDBE1600B708D3 /* Sin título.png.tiff */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -79,6 +80,7 @@
 		92A1F56C17DC6A45001FF991 /* myLaunchImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = myLaunchImage.png; sourceTree = "<group>"; };
 		92FD1A8917DD90EF00B708D3 /* paracetamol 500mg_t.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "paracetamol 500mg_t.jpg"; path = "../../../../../Desktop/paracetamol 500mg_t.jpg"; sourceTree = "<group>"; };
 		92FD1A8B17DD917200B708D3 /* Pack-Paracetamol-Bayer[1].jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Pack-Paracetamol-Bayer[1].jpg"; path = "../../../../../Desktop/Pack-Paracetamol-Bayer[1].jpg"; sourceTree = "<group>"; };
+		92FD1A8D17DDBE1600B708D3 /* Sin título.png.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "Sin título.png.tiff"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +143,7 @@
 		9237E15217D3F631009C637A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				92FD1A8D17DDBE1600B708D3 /* Sin título.png.tiff */,
 				92FD1A8B17DD917200B708D3 /* Pack-Paracetamol-Bayer[1].jpg */,
 				92FD1A8917DD90EF00B708D3 /* paracetamol 500mg_t.jpg */,
 				92674A3A17DB22D200AA3692 /* 250px-Two_and_a_Half_Men-title.png */,
@@ -265,6 +268,7 @@
 				92A1F56D17DC6A45001FF991 /* myLaunchImage.png in Resources */,
 				92FD1A8A17DD90EF00B708D3 /* paracetamol 500mg_t.jpg in Resources */,
 				92FD1A8C17DD917200B708D3 /* Pack-Paracetamol-Bayer[1].jpg in Resources */,
+				92FD1A8E17DDBE1600B708D3 /* Sin título.png.tiff in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
