@@ -17,7 +17,25 @@
 		9237E16017D3F631009C637A /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9237E15F17D3F631009C637A /* Default@2x.png */; };
 		9237E16217D3F631009C637A /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9237E16117D3F631009C637A /* Default-568h@2x.png */; };
 		9237E16517D3F631009C637A /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9237E16317D3F631009C637A /* MainStoryboard.storyboard */; };
-		9237E16817D3F631009C637A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9237E16717D3F631009C637A /* ViewController.m */; };
+		9237E17017D4054C009C637A /* ListaMedicamentosViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9237E16F17D4054C009C637A /* ListaMedicamentosViewController.m */; };
+		92674A3D17DB22D200AA3692 /* [pictures.4ever.eu] star wars the force unleashed 2 161130.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 92674A3617DB22D200AA3692 /* [pictures.4ever.eu] star wars the force unleashed 2 161130.jpg */; };
+		92674A3E17DB22D200AA3692 /* 01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 92674A3717DB22D200AA3692 /* 01.jpg */; };
+		92674A3F17DB22D200AA3692 /* 220px-Fast_and_Furious_Poster.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 92674A3817DB22D200AA3692 /* 220px-Fast_and_Furious_Poster.jpg */; };
+		92674A4017DB22D200AA3692 /* 220px-TBBT_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 92674A3917DB22D200AA3692 /* 220px-TBBT_logo.png */; };
+		92674A4117DB22D200AA3692 /* 250px-Two_and_a_Half_Men-title.png in Resources */ = {isa = PBXBuildFile; fileRef = 92674A3A17DB22D200AA3692 /* 250px-Two_and_a_Half_Men-title.png */; };
+		92674A4217DB22D200AA3692 /* 920batman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 92674A3B17DB22D200AA3692 /* 920batman.jpg */; };
+		92674A4317DB22D200AA3692 /* 3420480510_b5275d6cf5_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 92674A3C17DB22D200AA3692 /* 3420480510_b5275d6cf5_o.jpg */; };
+		92674A4917DBDB7C00AA3692 /* Categoria.m in Sources */ = {isa = PBXBuildFile; fileRef = 92674A4817DBDB7C00AA3692 /* Categoria.m */; };
+		92674A4C17DBDBB900AA3692 /* Subcategoria.m in Sources */ = {isa = PBXBuildFile; fileRef = 92674A4B17DBDBB900AA3692 /* Subcategoria.m */; };
+		92674A4F17DBDBCA00AA3692 /* Medicamento.m in Sources */ = {isa = PBXBuildFile; fileRef = 92674A4E17DBDBCA00AA3692 /* Medicamento.m */; };
+		92674A5217DBDEDF00AA3692 /* ListaCategoriasViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 92674A5117DBDEDF00AA3692 /* ListaCategoriasViewController.m */; };
+		92674A5517DBDF0B00AA3692 /* ListaSubcategoriasViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 92674A5417DBDF0B00AA3692 /* ListaSubcategoriasViewController.m */; };
+		92674A5E17DC47BF00AA3692 /* MedicamentoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 92674A5D17DC47BF00AA3692 /* MedicamentoViewController.m */; };
+		92A1F56717DC67CC001FF991 /* MyLaunchImage@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 92A1F56617DC67CC001FF991 /* MyLaunchImage@2x.png */; };
+		92A1F56B17DC6A03001FF991 /* drug_icon_57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = 92A1F56A17DC6A03001FF991 /* drug_icon_57x57.png */; };
+		92A1F56D17DC6A45001FF991 /* myLaunchImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 92A1F56C17DC6A45001FF991 /* myLaunchImage.png */; };
+		92FD1A8A17DD90EF00B708D3 /* paracetamol 500mg_t.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 92FD1A8917DD90EF00B708D3 /* paracetamol 500mg_t.jpg */; };
+		92FD1A8C17DD917200B708D3 /* Pack-Paracetamol-Bayer[1].jpg in Resources */ = {isa = PBXBuildFile; fileRef = 92FD1A8B17DD917200B708D3 /* Pack-Paracetamol-Bayer[1].jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,8 +53,32 @@
 		9237E15F17D3F631009C637A /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		9237E16117D3F631009C637A /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		9237E16417D3F631009C637A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		9237E16617D3F631009C637A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		9237E16717D3F631009C637A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		9237E16E17D4054C009C637A /* ListaMedicamentosViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListaMedicamentosViewController.h; sourceTree = "<group>"; };
+		9237E16F17D4054C009C637A /* ListaMedicamentosViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListaMedicamentosViewController.m; sourceTree = "<group>"; };
+		92674A3617DB22D200AA3692 /* [pictures.4ever.eu] star wars the force unleashed 2 161130.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "[pictures.4ever.eu] star wars the force unleashed 2 161130.jpg"; path = "../../../../../Desktop/WTF/SHIT/Videos/[pictures.4ever.eu] star wars the force unleashed 2 161130.jpg"; sourceTree = "<group>"; };
+		92674A3717DB22D200AA3692 /* 01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 01.jpg; path = ../../../../../Desktop/WTF/SHIT/Videos/01.jpg; sourceTree = "<group>"; };
+		92674A3817DB22D200AA3692 /* 220px-Fast_and_Furious_Poster.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "220px-Fast_and_Furious_Poster.jpg"; path = "../../../../../Desktop/WTF/SHIT/Videos/220px-Fast_and_Furious_Poster.jpg"; sourceTree = "<group>"; };
+		92674A3917DB22D200AA3692 /* 220px-TBBT_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "220px-TBBT_logo.png"; path = "../../../../../Desktop/WTF/SHIT/Videos/220px-TBBT_logo.png"; sourceTree = "<group>"; };
+		92674A3A17DB22D200AA3692 /* 250px-Two_and_a_Half_Men-title.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "250px-Two_and_a_Half_Men-title.png"; path = "../../../../../Desktop/WTF/SHIT/Videos/250px-Two_and_a_Half_Men-title.png"; sourceTree = "<group>"; };
+		92674A3B17DB22D200AA3692 /* 920batman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 920batman.jpg; path = ../../../../../Desktop/WTF/SHIT/Videos/920batman.jpg; sourceTree = "<group>"; };
+		92674A3C17DB22D200AA3692 /* 3420480510_b5275d6cf5_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 3420480510_b5275d6cf5_o.jpg; path = ../../../../../Desktop/WTF/SHIT/Videos/3420480510_b5275d6cf5_o.jpg; sourceTree = "<group>"; };
+		92674A4717DBDB7C00AA3692 /* Categoria.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Categoria.h; sourceTree = "<group>"; };
+		92674A4817DBDB7C00AA3692 /* Categoria.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Categoria.m; sourceTree = "<group>"; };
+		92674A4A17DBDBB900AA3692 /* Subcategoria.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Subcategoria.h; sourceTree = "<group>"; };
+		92674A4B17DBDBB900AA3692 /* Subcategoria.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Subcategoria.m; sourceTree = "<group>"; };
+		92674A4D17DBDBCA00AA3692 /* Medicamento.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Medicamento.h; sourceTree = "<group>"; };
+		92674A4E17DBDBCA00AA3692 /* Medicamento.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Medicamento.m; sourceTree = "<group>"; };
+		92674A5017DBDEDF00AA3692 /* ListaCategoriasViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListaCategoriasViewController.h; sourceTree = "<group>"; };
+		92674A5117DBDEDF00AA3692 /* ListaCategoriasViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListaCategoriasViewController.m; sourceTree = "<group>"; };
+		92674A5317DBDF0B00AA3692 /* ListaSubcategoriasViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListaSubcategoriasViewController.h; sourceTree = "<group>"; };
+		92674A5417DBDF0B00AA3692 /* ListaSubcategoriasViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListaSubcategoriasViewController.m; sourceTree = "<group>"; };
+		92674A5C17DC47BF00AA3692 /* MedicamentoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MedicamentoViewController.h; sourceTree = "<group>"; };
+		92674A5D17DC47BF00AA3692 /* MedicamentoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MedicamentoViewController.m; sourceTree = "<group>"; };
+		92A1F56617DC67CC001FF991 /* MyLaunchImage@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "MyLaunchImage@2x.png"; path = "../../../../Desktop/MyLaunchImage@2x.png"; sourceTree = "<group>"; };
+		92A1F56A17DC6A03001FF991 /* drug_icon_57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = drug_icon_57x57.png; sourceTree = "<group>"; };
+		92A1F56C17DC6A45001FF991 /* myLaunchImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = myLaunchImage.png; sourceTree = "<group>"; };
+		92FD1A8917DD90EF00B708D3 /* paracetamol 500mg_t.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "paracetamol 500mg_t.jpg"; path = "../../../../../Desktop/paracetamol 500mg_t.jpg"; sourceTree = "<group>"; };
+		92FD1A8B17DD917200B708D3 /* Pack-Paracetamol-Bayer[1].jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Pack-Paracetamol-Bayer[1].jpg"; path = "../../../../../Desktop/Pack-Paracetamol-Bayer[1].jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +98,9 @@
 		9237E13F17D3F631009C637A = {
 			isa = PBXGroup;
 			children = (
+				92A1F56C17DC6A45001FF991 /* myLaunchImage.png */,
+				92A1F56A17DC6A03001FF991 /* drug_icon_57x57.png */,
+				92A1F56617DC67CC001FF991 /* MyLaunchImage@2x.png */,
 				9237E15117D3F631009C637A /* Farmapedia */,
 				9237E14A17D3F631009C637A /* Frameworks */,
 				9237E14917D3F631009C637A /* Products */,
@@ -83,11 +128,11 @@
 		9237E15117D3F631009C637A /* Farmapedia */ = {
 			isa = PBXGroup;
 			children = (
+				92674A4617DBD7AF00AA3692 /* View */,
+				92674A4517DBD79A00AA3692 /* Model */,
+				92674A4417DBD79000AA3692 /* Controller */,
 				9237E15A17D3F631009C637A /* AppDelegate.h */,
 				9237E15B17D3F631009C637A /* AppDelegate.m */,
-				9237E16317D3F631009C637A /* MainStoryboard.storyboard */,
-				9237E16617D3F631009C637A /* ViewController.h */,
-				9237E16717D3F631009C637A /* ViewController.m */,
 				9237E15217D3F631009C637A /* Supporting Files */,
 			);
 			path = Farmapedia;
@@ -96,6 +141,15 @@
 		9237E15217D3F631009C637A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				92FD1A8B17DD917200B708D3 /* Pack-Paracetamol-Bayer[1].jpg */,
+				92FD1A8917DD90EF00B708D3 /* paracetamol 500mg_t.jpg */,
+				92674A3A17DB22D200AA3692 /* 250px-Two_and_a_Half_Men-title.png */,
+				92674A3617DB22D200AA3692 /* [pictures.4ever.eu] star wars the force unleashed 2 161130.jpg */,
+				92674A3717DB22D200AA3692 /* 01.jpg */,
+				92674A3817DB22D200AA3692 /* 220px-Fast_and_Furious_Poster.jpg */,
+				92674A3917DB22D200AA3692 /* 220px-TBBT_logo.png */,
+				92674A3B17DB22D200AA3692 /* 920batman.jpg */,
+				92674A3C17DB22D200AA3692 /* 3420480510_b5275d6cf5_o.jpg */,
 				9237E15317D3F631009C637A /* Farmapedia-Info.plist */,
 				9237E15417D3F631009C637A /* InfoPlist.strings */,
 				9237E15717D3F631009C637A /* main.m */,
@@ -105,6 +159,42 @@
 				9237E16117D3F631009C637A /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		92674A4417DBD79000AA3692 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				9237E16E17D4054C009C637A /* ListaMedicamentosViewController.h */,
+				9237E16F17D4054C009C637A /* ListaMedicamentosViewController.m */,
+				92674A5017DBDEDF00AA3692 /* ListaCategoriasViewController.h */,
+				92674A5117DBDEDF00AA3692 /* ListaCategoriasViewController.m */,
+				92674A5317DBDF0B00AA3692 /* ListaSubcategoriasViewController.h */,
+				92674A5417DBDF0B00AA3692 /* ListaSubcategoriasViewController.m */,
+				92674A5D17DC47BF00AA3692 /* MedicamentoViewController.m */,
+				92674A5C17DC47BF00AA3692 /* MedicamentoViewController.h */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		92674A4517DBD79A00AA3692 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				92674A4717DBDB7C00AA3692 /* Categoria.h */,
+				92674A4817DBDB7C00AA3692 /* Categoria.m */,
+				92674A4A17DBDBB900AA3692 /* Subcategoria.h */,
+				92674A4B17DBDBB900AA3692 /* Subcategoria.m */,
+				92674A4D17DBDBCA00AA3692 /* Medicamento.h */,
+				92674A4E17DBDBCA00AA3692 /* Medicamento.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		92674A4617DBD7AF00AA3692 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				9237E16317D3F631009C637A /* MainStoryboard.storyboard */,
+			);
+			name = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,6 +253,18 @@
 				9237E16017D3F631009C637A /* Default@2x.png in Resources */,
 				9237E16217D3F631009C637A /* Default-568h@2x.png in Resources */,
 				9237E16517D3F631009C637A /* MainStoryboard.storyboard in Resources */,
+				92674A3D17DB22D200AA3692 /* [pictures.4ever.eu] star wars the force unleashed 2 161130.jpg in Resources */,
+				92674A3E17DB22D200AA3692 /* 01.jpg in Resources */,
+				92674A3F17DB22D200AA3692 /* 220px-Fast_and_Furious_Poster.jpg in Resources */,
+				92674A4017DB22D200AA3692 /* 220px-TBBT_logo.png in Resources */,
+				92674A4117DB22D200AA3692 /* 250px-Two_and_a_Half_Men-title.png in Resources */,
+				92674A4217DB22D200AA3692 /* 920batman.jpg in Resources */,
+				92674A4317DB22D200AA3692 /* 3420480510_b5275d6cf5_o.jpg in Resources */,
+				92A1F56717DC67CC001FF991 /* MyLaunchImage@2x.png in Resources */,
+				92A1F56B17DC6A03001FF991 /* drug_icon_57x57.png in Resources */,
+				92A1F56D17DC6A45001FF991 /* myLaunchImage.png in Resources */,
+				92FD1A8A17DD90EF00B708D3 /* paracetamol 500mg_t.jpg in Resources */,
+				92FD1A8C17DD917200B708D3 /* Pack-Paracetamol-Bayer[1].jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -175,7 +277,13 @@
 			files = (
 				9237E15817D3F631009C637A /* main.m in Sources */,
 				9237E15C17D3F631009C637A /* AppDelegate.m in Sources */,
-				9237E16817D3F631009C637A /* ViewController.m in Sources */,
+				9237E17017D4054C009C637A /* ListaMedicamentosViewController.m in Sources */,
+				92674A4917DBDB7C00AA3692 /* Categoria.m in Sources */,
+				92674A4C17DBDBB900AA3692 /* Subcategoria.m in Sources */,
+				92674A4F17DBDBCA00AA3692 /* Medicamento.m in Sources */,
+				92674A5217DBDEDF00AA3692 /* ListaCategoriasViewController.m in Sources */,
+				92674A5517DBDF0B00AA3692 /* ListaSubcategoriasViewController.m in Sources */,
+				92674A5E17DC47BF00AA3692 /* MedicamentoViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +406,7 @@
 				9237E16D17D3F631009C637A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
