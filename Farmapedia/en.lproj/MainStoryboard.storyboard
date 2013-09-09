@@ -269,20 +269,6 @@
             </objects>
             <point key="canvasLocation" x="409" y="101"/>
         </scene>
-        <!--View Controller-->
-        <scene sceneID="Tnj-Qb-sWm">
-            <objects>
-                <viewController id="CHA-73-hZf" sceneMemberID="viewController">
-                    <view key="view" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="6MO-8n-ux3">
-                        <rect key="frame" x="0.0" y="20" width="320" height="548"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </view>
-                    <toolbarItems/>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="dYI-Io-1cR" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-        </scene>
     </scenes>
     <resources>
         <image name="Sin título.png.tiff" width="318" height="413"/>
